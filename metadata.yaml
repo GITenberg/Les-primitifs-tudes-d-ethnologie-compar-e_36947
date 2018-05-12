@@ -1,0 +1,40 @@
+_repo: Les-primitifs-tudes-d-ethnologie-compar-e_36947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reclus, Élie
+    aliases:
+    - Lefrene, Jacques
+    - Reclus, Jean-Pierre-Michel
+    - Reclus, Michel Élie
+    - Lefrène, Jacques
+    - Simplice, Bonhomme
+    - Trigant, Michel
+    - Reclus, Elie
+    birthdate: 1827
+    deathdate: 1904
+    gutenberg_agent_id: '38553'
+    url: http://www.gutenberg.org/2009/agents/38553
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36947'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Primitive societies'
+tableOfContents: 'Préface -- Les Hyperboréens, chasseurs et pêcheurs: Les Inoïts orientaux.
+  Les Inoïts occidentaux -- Les Apaches, chasseurs nomades et brigands -- Les Naïrs,
+  Noblesse guerrière et Famille maternelle -- Les monticoles des Nilgherris, pasteurs,
+  agriculteurs et sylvestres (Todas, Badagas, Cotas, Iroulas et Couroumbas) -- Les
+  Kolariens du Bengale, et les sacrifices humains chez les Khonds -- Conclusion.'
+title: 'Les primitifs: Études d''ethnologie comparée'
+url: http://www.gutenberg.org/ebooks/36947
